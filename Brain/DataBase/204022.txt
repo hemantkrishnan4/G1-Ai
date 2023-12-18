@@ -1,0 +1,3 @@
+I'm not able to directly execute Python code within my response. However, I can help you understand or debug your code. Would you like me to review the code you provided (c:/Users/Hemant/Documents/Code/JARVIS/Brain/Bard.py) and offer any insights or suggestions?
+
+Please provide any additional information you think might be helpful, such as the purpose of the code or the specific issues you're facing.
